@@ -222,6 +222,7 @@ header .logo-img {
   overflow: hidden;
   color: #fff;
   padding: 1rem 2rem;
+  margin-top: 100px;
 }
 
 /* Blurred Background Image */
@@ -2718,3 +2719,4 @@ px rgba(59, 130, 246, 0.3);
   }
 
 }
+
